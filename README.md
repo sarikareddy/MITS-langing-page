@@ -1,1 +1,0 @@
-# MITS-langing-page
