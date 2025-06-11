@@ -17,8 +17,6 @@ The **Internship Portal** is a web-based application designed to streamline the 
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap (or React, if used)
-- **Backend**: Node.js / PHP / Python (Django or Flask)
-- **Database**: MySQL / MongoDB / SQLite
 - **Authentication**: JWT / Session-based login
 - **Version Control**: Git & GitHub
 
